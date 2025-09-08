@@ -1,0 +1,12 @@
+Partes Interessadas,,,,,,
+Parte Interessada,Nome ,1. Venda Pela Internet,2. Pagamento via Internet,3. Acompanhamento de Pedidos,4. Classificação e Acompanhamento de Clientes,5. Cadastro e Aprovação dos Clientes
+Analista de empresa de consultoria,Grupo A,MUST,COULD,SHOULD,SHOULD,MUST
+Proprietário,Arnaldo Américo,MUST,COULD,COULD,COULD,MUST
+Diretor,Armando Américo,SHOULD,SHOULD,MUST,MUST,MUST
+Vendedor,Felipe Franciscano,SHOULD,SHOULD,SHOULD,MUST,SHOULD
+Vendedora,Gabriela Gambra,SHOULD,SHOULD,SHOULD,MUST,SHOULD
+Gerente geral,Bruna Berílio,WON'T,WON'T,MUST,MUST,COULD
+Gerente de TI,Carlos Castelo,SHOULD,COULD,SHOULD,COULD,COULD
+Recepcionista/Secretária,Débora Dina,COULD,COULD,COULD,COULD,COULD
+Fornecedores,...,COULD,COULD,COULD,COULD,COULD
+Clientes,...,MUST,SHOULD,SHOULD,COULD,COULD
