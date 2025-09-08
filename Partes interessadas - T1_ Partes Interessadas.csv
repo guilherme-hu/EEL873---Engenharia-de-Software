@@ -1,0 +1,15 @@
+Partes Interessadas,,,,,,,,,,
+Parte Interessada,Nome ,Necessidades (What),Motivações (Why),Poder,Influência,Poder ,Legitimidade,Urgência,Interesse,Engajamento
+Analista de empresa de consultoria,Nós,Atender às demandas do cliente (Livraria Resolve),É o nosso trabalho como empresa de consultoria,BAIXO,ALTO,BAIXO,ALTO,BAIXO,ALTO,LIDERA
+Proprietário,Arnaldo Américo,Software que apoie o pessoal de vendas para vender por internet,modernizar o sistema da livraria,ALTO,ALTO,ALTO,ALTO,ALTO,ALTO,LIDERA
+Diretor,Armando Américo,Obter informação que vem do sistema de vendas,Melhorar o relacionamento e atendimento com o cliente; facilitar seu negócio quando o pai se aposentar; informatizar a empresa,ALTO,ALTO,ALTO,ALTO,MÉDIO,ALTO,APOIA
+Vendedor,Felipe Franciscano,Sistema que suporte funcionamento diário,"Saber exatamente a qual cliente se destina, economizando trabalho manual, e evitar informação repetida",MÉDIO,MÉDIO,BAIXO,ALTO,MÉDIO,ALTO,APOIA
+Vendedora,Gabriela Gambra,"Sistema que tenha os arquivos dos clientes, com suas categorias específicas (frequentes, caloteiros, pedidos feitos)","Otimizar o atendimento, diminuindo número de erros e com isso, reduzindo reclamações",MÉDIO,MÉDIO,BAIXO,ALTO,MÉDIO,ALTO,APOIA
+Gerente geral,Bruna Berílio,Sistemas de vendas básico ou site propaganda; agenda de entregas ,"Facilitar seu trabalho (relatório, contas e organização) e conhecer os clientes",MÉDIO,MÉDIO,MÉDIO,MÉDIO,MÉDIO,MÉDIO,RESISTENTE
+Gerente de TI,Carlos Castelo,"- Sistema responsivo e simples de ser usado. 
+- Terceirizar tudo para a nuvem. 
+- Obrigatoriamente use SGDB e essencialmente com software livre em Linux Ubuntu","- Facilitar uso por parte dos clientes. 
+- Baratear o sistema na nuvem ao invés de manter servidor local",MÉDIO,MÉDIO,MÉDIO,ALTO,ALTO,BAIXO,NEUTRO
+Recepcionista/Secretária,Débora Dina,-,-,BAIXO,BAIXO,BAIXO,BAIXO,BAIXO,BAIXO,DESCONHECE
+Fornecedores,...,-,Vender os livros,BAIXO,BAIXO,BAIXO,BAIXO,BAIXO,MÉDIO,DESCONHECE
+Clientes,...,"Sistema de vendas online, com pagamento online",Facilidade na compra,BAIXO,BAIXO,ALTO,ALTO,MÉDIO,MÉDIO,DESCONHECE
